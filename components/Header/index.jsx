@@ -19,7 +19,7 @@ export default function Header() {
       <Content>
         <ContentTitle>
           <Title>
-            William Lucas
+            John Kennedy Moreria Dos Santos 
           </Title>
           <SubTitle>
             Portfolio Pessoal
